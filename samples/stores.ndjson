@@ -1,0 +1,3 @@
+{"store":"s1","operator":"org-a","from":"2026-11-01T00:00:00+08:00","until":"2026-11-27T19:00:00+08:00"}
+{"store":"s1","operator":"org-b","from":"2026-11-27T19:00:00+08:00","until":null}
+{"store":"s2","operator":"org-c","from":"2026-11-01T00:00:00+08:00","until":null}

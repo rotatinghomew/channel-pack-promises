@@ -1,0 +1,2 @@
+{"batch":"m-11","operator":"org-b","changes":[{"channel":"ch-a","listing":"A7","push":"tx-a2","from":"2026-11-27T19:30:00+08:00"}],"clear":[]}
+{"batch":"m-12","operator":"org-b","changes":[{"channel":"ch-a","listing":"A7","push":"tx-a2"}],"clear":[{"channel":"ch-a","listing":"A7","push":"tx-a2","field":"local"}]}

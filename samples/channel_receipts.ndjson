@@ -1,0 +1,4 @@
+{"channel":"ch-a","listing":"A7","push":"tx-a1","state":"visible"}
+{"channel":"ch-b","listing":"A7","push":"tx-b1","state":"visible"}
+{"channel":"ch-a","listing":"A7","push":"tx-a2","state":"visible"}
+{"channel":"ch-a","listing":"A7","push":"tx-a1","state":"visible"}

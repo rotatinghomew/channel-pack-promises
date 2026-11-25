@@ -1,0 +1,3 @@
+{"customer":"viewer-1","order":"order-17","channel":"ch-a","listing":"A7","push":"tx-a1","units":2,"ordered_at":"2026-11-27T18:50:00+08:00"}
+{"customer":"viewer-2","order":"order-18","channel":"ch-a","listing":"A7","push":"tx-a1","units":2,"ordered_at":"2026-11-27T20:09:00+08:00"}
+{"customer":"viewer-2","order":"order-21","channel":"ch-b","listing":"A7","push":"tx-b1","units":2,"ordered_at":"2026-11-27T20:09:00+08:00"}
